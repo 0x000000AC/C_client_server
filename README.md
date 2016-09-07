@@ -1,2 +1,2 @@
-# C_client_servver
+# C_client_server
 Learning TCP/IP with C
