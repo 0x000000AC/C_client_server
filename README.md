@@ -3,7 +3,7 @@ Learning TCP/IP with C
 
 This is a simple client/server program.  The client, server, and socket writing have been broken up into 3 separate files named respectivly with accompanying header files which include the necessary imports.   When the server is run, it waits for incoming connections, one at a time, in it's queue.  Once a connection is established, it sends the option to do nothing or exit the connection.
 
-#### Example Usage:
+### Example Usage:
 In this case, both are talking over localhost
 
 ``` sh
@@ -17,6 +17,7 @@ In another bash terminal/tab:
 
 -------------------------------------------------
 
+### Example Output:
 [On server]
 ``` sh
 #./server 4444
